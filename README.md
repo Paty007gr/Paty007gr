@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Paty007gr
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me DM me in discord Paty#5465
+- 📫 If you want to contact me DM me in discord Paty#5465
 
 <!---
 Paty007gr/Paty007gr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
